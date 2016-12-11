@@ -1,6 +1,6 @@
 {
   "name": "hyper-ramda",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Ramda Theme for Hyper",
   "main": "index.js",
   "scripts": {
