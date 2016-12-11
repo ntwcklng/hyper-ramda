@@ -14,6 +14,10 @@ plugins: [
   'hyper-ramda'
 ]
 ```
+
+# Related
+[https://atom.io/packages/ramda-syntax](https://atom.io/packages/ramda-syntax)
+
 # License
 
 Licensed under the MIT license.
