@@ -1,0 +1,16 @@
+{
+  "name": "hyper-ramda",
+  "version": "1.0.0",
+  "description": "Ramda Theme for Hyper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ramda",
+    "hyper",
+    "theme"
+  ],
+  "author": "Marvin Mieth <ntwcklng@gmail.com>",
+  "license": "MIT"
+}
