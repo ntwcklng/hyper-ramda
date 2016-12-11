@@ -11,6 +11,13 @@
     "hyper",
     "theme"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntwcklng/hyper-ramda.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ntwcklng/hyper-ramda/issues"
+  },
   "author": "Marvin Mieth <ntwcklng@gmail.com>",
   "license": "MIT"
 }
